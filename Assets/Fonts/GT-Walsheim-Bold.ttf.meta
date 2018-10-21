@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 56e7e4e94091e74408e943c33f347798
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GT Walsheim
+  fontNames:
+  - GT Walsheim
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 83565ce593fce574a9f4d99545614a08, type: 3}
+  - {fileID: 12800000, guid: b4caf63e0e786ee48ab75b908a9c6430, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,375 @@
+fileFormatVersion: 2
+guid: b2a2cf5f799435d429e5493b94c825b2
+timeCreated: 1512993705
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box012
+    100002: Box020
+    100004: Box025
+    100006: Box071
+    100008: Fortau
+    100010: Gress
+    100012: Gulv
+    100014: Gulv_garasje
+    100016: Gulv_planker
+    100018: Hage_planker
+    100020: Ikke_trykk
+    100022: Interactive_bags
+    100024: interactive_dumpster
+    100026: //RootNode
+    100028: Tre_1
+    100030: Tre_2
+    100032: Tre_3
+    100034: Tre_4
+    100036: Tre_5
+    100038: "Utkj\xF8rsel"
+    100040: Vegger
+    100042: Vegger001
+    100044: Vegger002
+    100046: Vegger003
+    100048: Vegger004
+    100050: Vegger005
+    100052: Vegger006
+    100054: Vegger007
+    100056: Vegger008
+    100058: Vegger009
+    100060: Vegger_garasje
+    100062: "Vegger_gr\xF8nnsaksdisk"
+    100064: "Vegger_kj\xF8ttdisk"
+    100066: Vei
+    400000: Box012
+    400002: Box020
+    400004: Box025
+    400006: Box071
+    400008: Fortau
+    400010: Gress
+    400012: Gulv
+    400014: Gulv_garasje
+    400016: Gulv_planker
+    400018: Hage_planker
+    400020: Ikke_trykk
+    400022: Interactive_bags
+    400024: interactive_dumpster
+    400026: //RootNode
+    400028: Tre_1
+    400030: Tre_2
+    400032: Tre_3
+    400034: Tre_4
+    400036: Tre_5
+    400038: "Utkj\xF8rsel"
+    400040: Vegger
+    400042: Vegger001
+    400044: Vegger002
+    400046: Vegger003
+    400048: Vegger004
+    400050: Vegger005
+    400052: Vegger006
+    400054: Vegger007
+    400056: Vegger008
+    400058: Vegger009
+    400060: Vegger_garasje
+    400062: "Vegger_gr\xF8nnsaksdisk"
+    400064: "Vegger_kj\xF8ttdisk"
+    400066: Vei
+    2300000: Box012
+    2300002: Box020
+    2300004: Box071
+    2300006: Fortau
+    2300008: Gress
+    2300010: Gulv_garasje
+    2300012: Gulv_planker
+    2300014: Hage_planker
+    2300016: Interactive_bags
+    2300018: interactive_dumpster
+    2300020: Tre_1
+    2300022: Tre_2
+    2300024: Tre_3
+    2300026: Tre_4
+    2300028: Tre_5
+    2300030: "Utkj\xF8rsel"
+    2300032: Vegger
+    2300034: Vegger001
+    2300036: Vegger002
+    2300038: Vegger003
+    2300040: Vegger004
+    2300042: Vegger005
+    2300044: Vegger006
+    2300046: Vegger007
+    2300048: Vegger008
+    2300050: Vegger009
+    2300052: Vei
+    3300000: Box012
+    3300002: Box020
+    3300004: Box071
+    3300006: Fortau
+    3300008: Gress
+    3300010: Gulv_garasje
+    3300012: Gulv_planker
+    3300014: Hage_planker
+    3300016: Interactive_bags
+    3300018: interactive_dumpster
+    3300020: Tre_1
+    3300022: Tre_2
+    3300024: Tre_3
+    3300026: Tre_4
+    3300028: Tre_5
+    3300030: "Utkj\xF8rsel"
+    3300032: Vegger
+    3300034: Vegger001
+    3300036: Vegger002
+    3300038: Vegger003
+    3300040: Vegger004
+    3300042: Vegger005
+    3300044: Vegger006
+    3300046: Vegger007
+    3300048: Vegger008
+    3300050: Vegger009
+    3300052: Vei
+    4300000: Box012
+    4300002: Box020
+    4300004: Box071
+    4300006: Interactive_bags
+    4300008: interactive_dumpster
+    4300010: Vegger001
+    4300012: Vegger006
+    4300014: Vegger007
+    4300016: Vegger009
+    4300018: Vegger008
+    4300020: Vegger002
+    4300022: Vegger
+    4300024: Vegger003
+    4300026: Vegger004
+    4300028: Vegger005
+    4300030: Gulv_planker
+    4300032: Gulv_garasje
+    4300034: Gress
+    4300036: Fortau
+    4300038: Vei
+    4300040: Tre_3
+    4300042: Tre_2
+    4300044: Tre_1
+    4300046: Tre_5
+    4300048: Tre_4
+    4300050: Hage_planker
+    4300052: "Utkj\xF8rsel"
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 17 - Default
+    second: {fileID: 2100000, guid: 4788684823061c04f904d0506dabce1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 19 - Default
+    second: {fileID: 2100000, guid: 5002240a20260c848867d9eca1c37dd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 20 - Default
+    second: {fileID: 2100000, guid: eab9d9e8adefaa14da70cc3064ca3573, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gulv
+    second: {fileID: 2100000, guid: f25c0a00fa4d53144a743096c793af5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #113'
+    second: {fileID: 2100000, guid: a875583ea850b304ba849d32951c9282, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #114'
+    second: {fileID: 2100000, guid: 9f9da4afd4ca05f4594fca0fbff8c005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #115'
+    second: {fileID: 2100000, guid: afb808f86a8ad49439915dc337a71ed8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #130'
+    second: {fileID: 2100000, guid: b5443128628d1814e8308f595a3a5109, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #142'
+    second: {fileID: 2100000, guid: 0cabada96ba4e7341acd1286a46e770a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #143'
+    second: {fileID: 2100000, guid: ad4140bbefb64d94989dc13c937be28b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #144'
+    second: {fileID: 2100000, guid: 302860b29c7ecf144bf1d584190c854d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #145'
+    second: {fileID: 2100000, guid: 2b16b271d4103af44afd1fcaa44a336b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #146'
+    second: {fileID: 2100000, guid: 2eccfbe7891b31043b4d4b3df6a25a9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #147'
+    second: {fileID: 2100000, guid: 8017478f6e855e4408ffba59d6a459e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #244'
+    second: {fileID: 2100000, guid: db2a8c312eef9ac4a8ee92f2b28f636d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #245'
+    second: {fileID: 2100000, guid: 84d7a37c2a9288242bc1e20c8422a742, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #246'
+    second: {fileID: 2100000, guid: 3e2666b0fe7ca13408defb2e5dcd485c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #247'
+    second: {fileID: 2100000, guid: e53125775ac4cd24bb5c0fbd9c589359, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #72'
+    second: {fileID: 2100000, guid: a875583ea850b304ba849d32951c9282, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #73'
+    second: {fileID: 2100000, guid: 125ba87cb3c762041bf743028f3bcbce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #74'
+    second: {fileID: 2100000, guid: 85ea0faa66fd69c4396dae2e76f48fb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: a5db2dc03463bea46b4c105da2b47345, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tre_stammer
+    second: {fileID: 2100000, guid: 3a6bd0caba3c1d64fb0705aea9db5cb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tre_topp
+    second: {fileID: 2100000, guid: c85fb9766dc4aad4bb9ffc5d59f24e4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: garasje
+    second: {fileID: 2100000, guid: 3f6a70b2c6f74df43a8fa68fac49f564, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gress
+    second: {fileID: 2100000, guid: a94883ba276b3a44aa20857881448c9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hage_skille
+    second: {fileID: 2100000, guid: 2c04bf6f46719d1489743a20cbff20e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vegger
+    second: {fileID: 2100000, guid: 3100403926dea324fa036ae6d49714c7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
